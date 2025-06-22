@@ -1,41 +1,36 @@
-# 🚀 Musa Aritonang (@heyimusa)
+<h1 align="center">🚀 Musa Aritonang (@heyimusa)</h1>
 
-**Building Resilient & Scalable Systems**
-
-Passionate about crafting robust infrastructure and scalable solutions that power the digital world.
+<p align="center">
+  <strong>Building Resilient & Scalable Systems</strong><br/>
+  Passionate about crafting robust infrastructure and scalable solutions that power the digital world.
+</p>
 
 ---
 
+## 🌐 About Me
+
+- 🛠 **DevOps Engineer | Cloud & Security Enthusiast**
+- 🧠 Problem solver with a knack for automation, reliability, and performance.
+- 🔄 Currently mastering **scalability**, **security**, and **platform engineering**.
+
+> 💡 *"Building systems that don't just work, but work reliably at scale."*
+
+---
 
 ## 📫 Let's Connect
 
-- 💬 **Blog**: [hi.heyimusa.blog](https://hi.heyimusa.blog/)
-- 💼 **LinkedIn**: [@heyimusa](https://www.linkedin.com/in/heyimusa/)
-- 🌍 **Location**: Jakarta, Indonesia
-- 🤝 **Open to**: Tech discussions, collaboration, and knowledge sharing
-
----
-
-> 💡 *"Building systems that don't just work, but work reliably at scale"*
+- 💬 Blog: [**hi.heyimusa.blog**](https://hi.heyimusa.blog/)
+- 💼 LinkedIn: [**@heyimusa**](https://www.linkedin.com/in/heyimusa/)
+- 📍 Jakarta, Indonesia
+- 🤝 Open to: Tech talks, mentorship, collaboration, and meaningful knowledge sharing
 
 ---
 
 <div align="center">
 
-```
-     ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-    ███████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗███████╗
-    ╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝██╔════╝
-       ██║   ███████║███████║██╔██╗ ██║█████╔╝ ███████╗
-       ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗ ╚════██║
-       ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗███████║
-       ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
-     ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-
-         🚀 Building resilient systems, one commit at a time 🚀
-</div>
-
-<!---
-heyimusa/heyimusa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+███╗   ███╗██╗   ██╗███████╗ █████╗     ██╗   ██╗██╗   ██╗
+████╗ ████║╚██╗ ██╔╝██╔════╝██╔══██╗    ██║   ██║██║   ██║
+██╔████╔██║ ╚████╔╝ █████╗  ███████║    ██║   ██║██║   ██║
+██║╚██╔╝██║  ╚██╔╝  ██╔══╝  ██╔══██║    ╚██╗ ██╔╝██║   ██║
+██║ ╚═╝ ██║   ██║   ███████╗██║  ██║     ╚████╔╝ ╚██████╔╝
+╚═╝     ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝      ╚═══╝   ╚═════╝
