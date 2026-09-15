@@ -1,4 +1,4 @@
-<h1 align="center">Musa Aritonang <sub>(@heyimusa)</sub></h1>
+<h1 align="center"><sub>(@heyimusa)</sub></h1>
 
 <p align="center">
   <strong>Infrastructure & DevOps Engineer</strong><br />
