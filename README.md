@@ -1,8 +1,9 @@
-<h1 align="center">Fensius Musa Aritonang <sub>(@heyimusa)</sub></h1>
+<h1 align="center">Musa Aritonang <sub>(@heyimusa)</sub></h1>
 
 <p align="center">
-  <strong>Infrastructure & DevOps Engineer</strong><br/>
-  I build cloud platforms that are easier to ship on, safer to change, and less surprising at 3 a.m.
+  <strong>Infrastructure & DevOps Engineer</strong><br />
+  Building evidence-first delivery systems: safer to change, easier to explain,
+  and less surprising at 03:00.
 </p>
 
 <p align="center">
@@ -11,31 +12,51 @@
   <a href="https://www.linkedin.com/in/heyimusa/">LinkedIn</a>
 </p>
 
+<p align="center">
+  <img src="assets/delivery-evidence-loop.svg" alt="Pull request to controlled delivery evidence loop" width="720" />
+</p>
+
 ---
 
-## What I work on
+> [!TIP]
+> **Current thesis**
+>
+> A deployment should be reviewable before it is runnable.
+> A recovery claim should be backed by evidence, not confidence.
 
-I work across cloud architecture, Kubernetes, delivery systems, observability, reliability, and security controls. The recurring job is turning a pile of services and manual steps into a platform teams can understand and trust.
+## Public tools
 
-- **Platform foundations** — cloud, Kubernetes, networking, identity, Terraform, and useful defaults.
-- **Delivery systems** — CI/CD, GitOps, progressive rollout and rollback paths, and reviewable deployment boundaries.
-- **Reliability & security** — monitoring, incident readiness, least-privilege access, and operational evidence that survives an audit.
+| Tool | Question it answers |
+|---|---|
+| [`kube-blast-radius`](https://github.com/heyimusa/kube-blast-radius) | *What new security capability or network surface did this Kubernetes change introduce?* |
+| [`ci-capsule`](https://github.com/heyimusa/ci-capsule) | *What evidence did a failed GitHub Actions run actually leave behind—and is a replay candidate provable?* |
+| [`delivery-evidence`](https://github.com/heyimusa/delivery-evidence) | *Does a delivery workflow and its rendered manifest declare a reviewable deployment, readiness, and rollback boundary?* |
+| [`probe-contract`](https://github.com/heyimusa/probe-contract) | *Does a Docker Compose healthcheck agree with the health contract the service claims to have?* |
 
-## Public work
+> [!NOTE]
+> **Working principles**
+>
+> - Prefer static, reviewable evidence to optimistic automation.
+> - Treat ambiguity as `unknown`, never as a passing result.
+> - Separate inspection from mutation; preserve explicit approval boundaries.
+> - Build tools with deterministic output and useful failure modes.
 
-- [`kube-blast-radius`](https://github.com/heyimusa/kube-blast-radius) — compares rendered Kubernetes manifests and surfaces security-impact changes before a GitOps sync.
-- [`probe-contract`](https://github.com/heyimusa/probe-contract) — checks whether declared liveness/readiness intent agrees with Docker Compose health checks.
+## Lab notes
 
-## Recent notes
-
-I publish evidence-led, Docker-tested notes at [heyimusa.blog](https://heyimusa.blog), including:
+I write evidence-led, Docker-tested notes on
+[heyimusa.blog](https://heyimusa.blog):
 
 - [An agent needs an evidence bundle, not a confident answer](https://heyimusa.blog/an-agent-needs-an-evidence-bundle)
 - [A GitHub Actions workflow is a deployment boundary, not a YAML file](https://heyimusa.blog/a-github-actions-workflow-is-a-deployment-boundary)
 - [A Gateway migration is a routing change, not a YAML conversion](https://heyimusa.blog/a-gateway-migration-is-a-routing-change)
 
-> Infrastructure should make the product team faster, not give them another system to work around.
+> [!IMPORTANT]
+> **Also worth exploring**
+>
+> [`isolated-docker-rate-limit-lab`](https://github.com/heyimusa/isolated-docker-rate-limit-lab)
+> — an intentionally bounded Docker exercise for observing Nginx rate limiting,
+> load shedding, and health-path isolation without targeting any external system.
 
 ---
 
-📍 Jakarta, Indonesia · Open to conversations about platform engineering, reliability, cloud security, and infrastructure leadership.
+📍 Jakarta, Indonesia · Platform engineering · GitOps · reliability · cloud security
